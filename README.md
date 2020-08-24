@@ -7,3 +7,18 @@ In order to determine the perfect number of cluster to be formed, elbow method i
 The resultant graph obtained from the elbow graph is shown below 
 
 ![elbow_graph](https://github.com/murugeshmanthiramoorthi/Clustering-using-KMeans/blob/master/elbow.png)
+
+## ABOUT ME:
+Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist. 
+
+### Contact me:
+
+* [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
+
+### Connect with me:
+
+* [portfolio](https://murugeshmanthiramoorthi.github.io/)
+* [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
+* [Twitter](https://twitter.com/murugesh__m)
+* [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
+* [Instagram](https://www.instagram.com/murugesh__m/)
