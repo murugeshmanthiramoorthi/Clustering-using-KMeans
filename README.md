@@ -17,7 +17,7 @@ Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist.
 
 ### Connect with me:
 
-* [portfolio](https://murugeshmanthiramoorthi.github.io/)
+* [Portfolio](https://murugeshmanthiramoorthi.github.io/)
 * [LinedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/)
 * [Twitter](https://twitter.com/murugesh__m)
 * [Facebook](https://www.facebook.com/murugeshmanthiramoorthi/)
